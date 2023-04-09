@@ -1,0 +1,137 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epg.it999.ru/epg2.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#
+# https://okko.tv/collection/tvchannels (GEO block)
+#
+#EXTINF:-1 ,BACKUSTV ORIGINAL
+https://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 ,BACKUSTV DARK
+https://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 ,BACKUSTV MUSIC
+https://stream.backustv.ru/live/vipbtv3/index.m3u8
+#EXTINF:-1 ,Comedy Central
+http://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
+#EXTINF:-1 ,TV XXI
+http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
+#EXTINF:-1 ,Еврокино
+http://176.222.190.76/btv/SWM/Eurokino/Eurokino.m3u8
+#EXTINF:-1 ,Trash HD
+https://edge05.beetv.kz/btv/SWM/trash_hd/trash_hd.m3u8
+#EXTINF:-1 ,НСТ
+http://edge05.beetv.kz/btv/SWM/HCT/HCT.m3u8
+#EXTINF:-1 ,Кино ТВ
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+#EXTINF:-1 ,A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1 ,A2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 ,Amedia Hit HD
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+#EXTINF:-1 ,Amedia Premium HD
+http://edge05.beetv.kz/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1 ,Кинеко HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:-1 ,Сапфир HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1 ,VIP Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 ,VIP Premiere HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 ,VIP Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 ,VIP Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 ,TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 ,TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 ,TV1000 Русское Кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 ,Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1 ,Black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 ,Red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 ,Дом кино
+http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
+#EXTINF:-1 ,Дом кино Премиум
+http://edge05.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
+#EXTINF:-1 ,START Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:-1 ,START World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 ,Star Cinema HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD.m3u8
+#EXTINF:-1 ,Star Family HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD.m3u8
+#EXTINF:-1 ,Bolt HD
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
+#EXTINF:-1 ,Дорама
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 ,Синема
+https://edge05.beetv.kz/btv/SWM/CINEMA/CINEMA.m3u8
+#EXTINF:-1 ,FOX HD
+https://edge05.beetv.kz/btv/SWM/FOX/FOX.m3u8
+#EXTINF:-1 ,FOX LIFE HD
+https://edge05.beetv.kz/btv/SWM/FoxLife/FoxLife.m3u8
+#EXTINF:-1 ,Hollywood
+https://edge05.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1 ,Bollywood HD
+http://edge05.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:-1 ,Калейдоскоп
+https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
+#EXTINF:-1 ,Мужское кино HD
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+#EXTINF:-1 ,Киноужас HD
+https://sc.id-tv.kz/Kinouzhas_hd.m3u8
+#EXTINF:-1 ,Киносемья HD
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+#EXTINF:-1 ,Киносерия HD
+https://sc.id-tv.kz/Kinoseriya_hd.m3u8
+#EXTINF:-1 ,Кинокомедия HD
+https://sc.id-tv.kz/Kinokomediya_hd.m3u8
+#EXTINF:-1 ,Киносвидание HD
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+#EXTINF:-1 ,Кинохит HD
+https://sc.id-tv.kz/Kinohit_hd.m3u8
+#EXTINF:-1 ,Киномикс HD
+https://sc.id-tv.kz/Kinomix_hd.m3u8
+#EXTINF:-1 ,Родное кино
+https://sc.id-tv.kz/Rodnoe_kino.m3u8
+#EXTINF:-1 ,Индийское кино
+https://sc.id-tv.kz/Indiiskoe_kino.m3u8
+#EXTINF:-1 ,Перец ТВ
+http://edge04.beetv.kz/btv/SWM/Perec/Perec.m3u8
+#EXTINF:-1 ,Наука 2.0
+http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
+#EXTINF:-1 ,Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1 ,Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 ,Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 ,History HD
+https://edge05.beetv.kz/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 ,Big Planet HD
+https://edge05.beetv.kz/btv/SWM/big_planet_hd/big_planet_hd.m3u8
+#EXTINF:-1 ,Видеокассета HD
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 ,Матч! Игра
+http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
+#EXTINF:-1 ,CTC Kids HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:-1 ,Disney
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 ,Мультиландия HD
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+#EXTINF:-1 ,Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
+#EXTINF:-1 ,Че
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:-1 ,СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 ,Известия HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+###############################################################################
