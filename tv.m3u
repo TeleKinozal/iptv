@@ -100,7 +100,7 @@ https://sc.id-tv.kz/Kinomix_hd.m3u8
 https://sc.id-tv.kz/Rodnoe_kino.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Индийское кино
 https://sc.id-tv.kz/Indiiskoe_kino.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Перец ТВ
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Перец
 http://edge04.beetv.kz/btv/SWM/Perec/Perec.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Наука 2.0
 http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
@@ -118,7 +118,7 @@ https://edge05.beetv.kz/btv/SWM/big_planet_hd/big_planet_hd.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Игра
 http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",CTC Kids HD
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Disney
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
