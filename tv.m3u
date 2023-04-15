@@ -83,23 +83,25 @@ https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киноужас HD
 https://sc.id-tv.kz/Kinouzhas_hd.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносемья HD
-https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносерия HD
 https://sc.id-tv.kz/Kinoseriya_hd.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Кинокомедия HD
 https://sc.id-tv.kz/Kinokomediya_hd.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносвидание HD
-https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+http://hlstv.kem.211.ru/239.211.211.141/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Кинопремьера HD
 https://sc.id-tv.kz/Kinopremiera_hd.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Кинохит HD
-https://sc.id-tv.kz/Kinohit_hd.m3u8
+http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киномикс HD
 https://sc.id-tv.kz/Kinomix_hd.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Родное кино
-https://sc.id-tv.kz/Rodnoe_kino.m3u8
+http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Индийское кино
 https://sc.id-tv.kz/Indiiskoe_kino.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Наше новое кино
+http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Перец
 http://edge04.beetv.kz/btv/SWM/Perec/Perec.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Наука 2.0
