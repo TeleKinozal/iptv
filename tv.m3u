@@ -95,7 +95,7 @@ https://sc.id-tv.kz/Kinopremiera_hd.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Кинохит HD
 http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киномикс HD
-https://sc.id-tv.kz/Kinomix_hd.m3u8
+http://hlstv.kem.211.ru/239.211.200.194/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Родное кино
 http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Индийское кино
