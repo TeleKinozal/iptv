@@ -84,7 +84,7 @@ http://hlstv.kem.211.ru/239.211.200.43/stream.m3u8
 http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносерия HD
 https://sc.id-tv.kz/Kinoseriya_hd.m3u8
-#EXTINF:-1 group-title="" tvg-shift="-2" tvg-id="" tvg-logo="",Кинокомедия HD
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="kinokomedia" tvg-logo="",Кинокомедия HD
 https://sc.id-tv.kz/Kinokomediya_hd.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносвидание HD
 http://hlstv.kem.211.ru/239.211.211.141/stream.m3u8
