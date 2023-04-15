@@ -79,9 +79,9 @@ http://edge05.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Калейдоскоп
 https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мужское кино HD
-https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+http://hlstv.kem.211.ru/239.211.200.31/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киноужас HD
-https://sc.id-tv.kz/Kinouzhas_hd.m3u8
+http://hlstv.kem.211.ru/239.211.200.43/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносемья HD
 http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносерия HD
