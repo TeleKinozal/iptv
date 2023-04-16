@@ -152,6 +152,6 @@ https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Известия HD
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Славянский Мир (Родной канал)
-https://n1.slavmir.tv/live/ngrp:Cinegy.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Родной канал (Славянский Мир)
+https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 ##############################################################################
