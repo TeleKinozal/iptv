@@ -61,7 +61,9 @@ http://hlstv.kem.211.ru/239.211.200.42/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Жар Птица
 http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Русский иллюзион
-http://185.23.80.28:8080/RusIlluzion/index.m3u8
+http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Иллюзион +
+http://93.125.34.51:30002/illuzion_plus/index.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="shanson-tv" tvg-logo="",Шансон-ТВ
 http://hlstv.kem.211.ru/239.211.211.78/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",START Air HD
