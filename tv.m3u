@@ -136,8 +136,26 @@ http://edge05.beetv.kz/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Удар ТВ
 https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",MMA-TV HD
+http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! HD
+http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Арена
+http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Игра
 http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Страна
+http://hlstv.kem.211.ru/239.211.211.63/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Премьер
+http://hlstv.kem.211.ru/239.211.211.170/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Премьер HD
+http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 1 HD
+http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 2 HD
+http://hlstv.kem.211.ru/239.211.200.172/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 3 HD
+http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СОЛНЦЕ
