@@ -64,8 +64,34 @@ http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
 http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Иллюзион +
 http://93.125.34.51:30002/illuzion_plus/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",НТВ Хит
+http://hlstv.kem.211.ru/239.211.211.181/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Fight BOX
+http://hlstv.kem.211.ru/239.211.211.184/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Film BOX
+http://hlstv.kem.211.ru/239.211.211.185/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Film BOX Arthouse
+http://hlstv.kem.211.ru/239.211.211.186/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Любимое кино
+http://hlstv.kem.211.ru/239.211.211.187/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мир сериала
+http://hlstv.kem.211.ru/239.211.211.188/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="shanson-tv" tvg-logo="",Шансон-ТВ
 http://hlstv.kem.211.ru/239.211.211.78/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Европа плюс ТВ HD
+http://hlstv.kem.211.ru/239.211.200.37/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Музыка первого
+http://hlstv.kem.211.ru/239.211.211.196/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Ля минор
+http://hlstv.kem.211.ru/239.211.211.20/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Classic
+http://hlstv.kem.211.ru/239.211.211.21/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Шлягер
+http://hlstv.kem.211.ru/239.211.211.22/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Rock
+http://hlstv.kem.211.ru/239.211.211.23/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV HITS
+http://hlstv.kem.211.ru/239.211.211.9/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",START Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",START World HD
@@ -156,12 +182,26 @@ http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
 http://hlstv.kem.211.ru/239.211.200.172/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 3 HD
 http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Чижик
+http://hlstv.kem.211.ru/239.211.211.41/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Смайлик ТВ
+http://hlstv.kem.211.ru/239.211.211.178/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Супер герои
+http://hlstv.kem.211.ru/239.211.211.36/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Пингвин
+http://hlstv.kem.211.ru/239.211.211.42/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СОЛНЦЕ
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",TiJi
+http://hlstv.kem.211.ru/239.211.211.43/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мульт
+http://hlstv.kem.211.ru/239.211.211.6/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мульт и музыка
+http://hlstv.kem.211.ru/239.211.211.12/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Ю
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Че
