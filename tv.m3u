@@ -44,11 +44,11 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",TV1000 Русское Кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Sci-Fi
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="sony-scifi" tvg-logo="",Sci-Fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Black
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="sony-turbo" tvg-logo="",Black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Red
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="sony-tv" tvg-logo="",Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Дом кино
 http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
