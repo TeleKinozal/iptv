@@ -72,15 +72,15 @@ http://hlstv.kem.211.ru/239.211.211.184/stream.m3u8
 http://hlstv.kem.211.ru/239.211.211.185/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",FilmBox ArtHouse
 http://hlstv.kem.211.ru/239.211.211.186/stream.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Shot TV
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="shot-tv" tvg-logo="",Shot TV HD
 http://hlstv.kem.211.ru/239.211.200.54/stream.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Kinojam 1
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="kinojam1" tvg-logo="",Kinojam 1 HD
 http://hlstv.kem.211.ru/239.211.200.87/stream.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Kinojam 2
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="kinojam2" tvg-logo="",Kinojam 2 HD
 http://hlstv.kem.211.ru/239.211.200.88/stream.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",DetectiveJam HD
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="detectivejam" tvg-logo="",DetectiveJam HD
 http://hlstv.kem.211.ru/239.211.200.89/stream.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",FamilyJam
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="familyjam" tvg-logo="",FamilyJam HD
 http://hlstv.kem.211.ru/239.211.200.90/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Любимое кино
 http://hlstv.kem.211.ru/239.211.211.187/stream.m3u8
