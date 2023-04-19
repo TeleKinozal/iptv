@@ -70,6 +70,8 @@ http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
 http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Иллюзион +
 http://93.125.34.51:30002/illuzion_plus/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Феникс+ Кино
+https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",НТВ Хит
 http://hlstv.kem.211.ru/239.211.211.181/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Fight BOX
