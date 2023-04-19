@@ -202,6 +202,10 @@ http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
 http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Sports 2 HD
 http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 1 HD
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 2 HD
+http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! HD
 http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Арена
