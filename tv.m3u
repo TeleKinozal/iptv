@@ -1,5 +1,45 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Первый канал
+https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Россия 1
+https://livetv.mylifeisgood.ml/channels/russia1.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч!
+https://livetv.mylifeisgood.ml/channels/match.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",НТВ
+https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Пятый канал
+https://livetv.mylifeisgood.ml/channels/5tv.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Россия К
+https://livetv.mylifeisgood.ml/channels/russiak.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Россия 24
+https://livetv.mylifeisgood.ml/channels/russia24.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Карусель
+https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",ОТР
+https://livetv.mylifeisgood.ml/channels/otr24.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",ТВ Центр
+https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",РЕН ТВ
+https://livetv.mylifeisgood.ml/channels/rentv.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Спас
+https://livetv.mylifeisgood.ml/channels/spas.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СТС
+https://livetv.mylifeisgood.ml/channels/sts.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Домашний
+https://livetv.mylifeisgood.ml/channels/domashnii.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",ТВ3
+https://livetv.mylifeisgood.ml/channels/tv3.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Пятница!
+https://livetv.mylifeisgood.ml/channels/friday.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Звезда
+https://livetv.mylifeisgood.ml/channels/zvezda.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мир
+http://livetv.mylifeisgood.ml/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",ТНТ
+https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Муз ТВ
+https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",BACKUSTV ORIGINAL
 https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",BACKUSTV DARK
