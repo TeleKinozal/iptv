@@ -1,0 +1,305 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Россия 1
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч!
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Пятый канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Спас
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Муз ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",BACKUSTV ORIGINAL
+https://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",BACKUSTV DARK
+https://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",BACKUSTV MUSIC
+https://stream.backustv.ru/live/vipbtv3/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Блокбастер HD
+http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Comedy Central
+http://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",TV XXI
+http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Еврокино
+http://176.222.190.76/btv/SWM/Eurokino/Eurokino.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="plan-b" tvg-logo="",plan_B HD
+http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="fanhd" tvg-logo="",FAN HD
+http://hlstv.kem.211.ru/239.211.200.51/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Trash HD
+https://edge05.beetv.kz/btv/SWM/trash_hd/trash_hd.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",НСТ
+http://edge05.beetv.kz/btv/SWM/HCT/HCT.m3u8
+#EXTINF:-1 group-title="" tvg-shift="4" tvg-id="kino-tv-pl4" tvg-logo="",КиноТВ
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",A2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Amedia Hit HD
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Amedia Premium HD
+http://edge05.beetv.kz/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Кинеко HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Сапфир HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",VIP Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",VIP Premiere HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",VIP Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",VIP Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",TV1000 Русское Кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="sony-scifi" tvg-logo="",Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="sony-turbo" tvg-logo="",Black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="sony-tv" tvg-logo="",Red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Дом кино
+http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Дом кино Премиум
+http://edge05.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Ностальгия
+http://hlstv.kem.211.ru/239.211.211.16/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="mosfilm" tvg-logo="",Золотая коллекция HD
+http://hlstv.kem.211.ru/239.211.200.42/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Жар Птица
+http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Русский иллюзион
+http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Иллюзион +
+http://93.125.34.51:30002/illuzion_plus/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Феникс+ Кино
+https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",НТВ Хит
+http://hlstv.kem.211.ru/239.211.211.181/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Fight BOX
+http://hlstv.kem.211.ru/239.211.211.184/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",FilmBox Russia
+http://hlstv.kem.211.ru/239.211.211.185/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",FilmBox ArtHouse
+http://hlstv.kem.211.ru/239.211.211.186/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="shot-tv" tvg-logo="",Shot TV HD
+http://hlstv.kem.211.ru/239.211.200.54/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="kinojam1" tvg-logo="",Kinojam 1 HD
+http://hlstv.kem.211.ru/239.211.200.87/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="kinojam2" tvg-logo="",Kinojam 2 HD
+http://hlstv.kem.211.ru/239.211.200.88/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="detectivejam" tvg-logo="",DetectiveJam HD
+http://hlstv.kem.211.ru/239.211.200.89/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="familyjam" tvg-logo="",FamilyJam HD
+http://hlstv.kem.211.ru/239.211.200.90/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Любимое кино
+http://hlstv.kem.211.ru/239.211.211.187/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мир сериала
+http://hlstv.kem.211.ru/239.211.211.188/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Восток ТВ
+http://hlstv.kem.211.ru/239.211.211.117/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="shanson-tv" tvg-logo="",Шансон-ТВ
+http://hlstv.kem.211.ru/239.211.211.78/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="europa-plus-tv" tvg-logo="",Европа плюс ТВ HD
+http://hlstv.kem.211.ru/239.211.200.37/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Музыка первого
+http://hlstv.kem.211.ru/239.211.211.196/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Ля минор
+http://hlstv.kem.211.ru/239.211.211.20/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV
+http://hlstv.kem.211.ru/239.211.211.53/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Deluxe
+http://hlstv.kem.211.ru/239.211.200.46/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Русский хит
+http://hlstv.kem.211.ru/239.211.211.147/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Classic
+http://hlstv.kem.211.ru/239.211.211.21/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Шлягер
+http://hlstv.kem.211.ru/239.211.211.22/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Rock
+http://hlstv.kem.211.ru/239.211.211.23/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV HITS
+http://hlstv.kem.211.ru/239.211.211.9/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",START Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",START World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Star Cinema HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Star Family HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="bolt-ru" tvg-logo="",Bolt HD
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Дорама
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Синема
+https://edge05.beetv.kz/btv/SWM/CINEMA/CINEMA.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",FOX HD
+https://edge05.beetv.kz/btv/SWM/FOX/FOX.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",FOX LIFE HD
+https://edge05.beetv.kz/btv/SWM/FoxLife/FoxLife.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Hollywood
+https://edge05.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Bollywood HD
+http://edge05.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мужское кино HD
+http://hlstv.kem.211.ru/239.211.200.31/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киноужас HD
+http://hlstv.kem.211.ru/239.211.200.43/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносемья HD
+http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносерия HD
+http://hlstv.kem.211.ru/239.211.200.44/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="kinokomedia" tvg-logo="",Кинокомедия HD
+http://hlstv.kem.211.ru/239.211.200.139/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киносвидание HD
+http://hlstv.kem.211.ru/239.211.211.141/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Кинопремьера HD
+http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Кинохит HD
+http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Киномикс HD
+http://hlstv.kem.211.ru/239.211.200.194/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Родное кино
+http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Индийское кино
+http://hlstv.kem.211.ru/239.211.211.154/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Наше новое кино
+http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Перец
+http://edge04.beetv.kz/btv/SWM/Perec/Perec.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Наука 2.0
+http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Viasat Sport HD
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",History HD
+https://edge05.beetv.kz/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="terra-ru" tvg-logo="",Terra
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Big Planet HD
+https://edge05.beetv.kz/btv/SWM/big_planet_hd/big_planet_hd.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Моя планета HD
+http://hlstv.kem.211.ru/239.211.200.19/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Nat geo wild 
+http://edge05.beetv.kz/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Арсенал
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="eureka-hd" tvg-logo="",Первый космический HD
+http://hlstv.kem.211.ru/239.211.200.26/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="prikluchenia-hd" tvg-logo="",Приключения HD
+http://hlstv.kem.211.ru/239.211.200.23/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="",В мире животных HD
+http://hlstv.kem.211.ru/239.211.200.9/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Зоо ТВ
+http://ott-cdn.ucom.am/s92/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Видеокассета HD
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Удар ТВ
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",MMA-TV HD
+http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Sports 1 HD
+http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Sports 2 HD
+http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 1 HD
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 2 HD
+http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! HD
+http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Арена
+http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Игра
+http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Страна
+http://hlstv.kem.211.ru/239.211.211.63/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Премьер
+http://hlstv.kem.211.ru/239.211.211.170/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Премьер HD
+http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 1 HD
+http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 2 HD
+http://hlstv.kem.211.ru/239.211.200.172/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 3 HD
+http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Чижик
+http://hlstv.kem.211.ru/239.211.211.41/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СТС Kids HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Смайлик ТВ
+http://hlstv.kem.211.ru/239.211.211.178/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Супер герои
+http://hlstv.kem.211.ru/239.211.211.36/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Пингвин
+http://hlstv.kem.211.ru/239.211.211.42/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СОЛНЦЕ
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",TiJi
+http://hlstv.kem.211.ru/239.211.211.43/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мульт
+http://hlstv.kem.211.ru/239.211.211.6/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мультиландия HD
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Мульт и музыка
+http://hlstv.kem.211.ru/239.211.211.12/stream.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Че
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Известия HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+##############################################################################
