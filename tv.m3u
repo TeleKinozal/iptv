@@ -225,6 +225,8 @@ http://176.222.190.76/btv/SWM/Muzhskoy/Muzhskoy.m3u8
 http://176.222.190.76/btv/SWM/oruzhie/oruzhie.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Техно 24
 http://176.222.190.76/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Победа
+http://176.222.190.76/btv/SWM/Pobeda/Pobeda.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Арсенал
 http://ott-cdn.ucom.am/s68/index.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Наука 2.0
