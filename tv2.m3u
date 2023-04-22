@@ -49,6 +49,8 @@ https://stream.backustv.ru/live/btv2/index.m3u8
 https://stream.backustv.ru/live/vipbtv3/index.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Блокбастер HD
 http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
+#EXTINF:-1 group-title="Ател Рыбинск (VPN)" ,Остросюжетное HD
+http://188.68.16.246:43800/play/a03j
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Comedy Central
 http://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",TV XXI
