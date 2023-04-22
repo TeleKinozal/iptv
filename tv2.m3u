@@ -175,9 +175,9 @@ http://hlstv.kem.211.ru/239.211.211.9/stream.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",START World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Star Cinema HD
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Star Cinema
 https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Star Family HD
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Star Family
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="bolt-ru" tvg-logo="",Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
@@ -219,7 +219,7 @@ http://hlstv.kem.211.ru/239.211.211.154/stream.m3u8
 http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Перец
 http://edge04.beetv.kz/btv/SWM/Perec/Perec.m3u8
-#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Mужской
+#EXTINF:-1 group-title="" tvg-shift="0" tvg-id="muzhskoy" tvg-logo="",Mужской
 http://176.222.190.76/btv/SWM/Muzhskoy/Muzhskoy.m3u8
 #EXTINF:-1 group-title="" tvg-shift="0" tvg-id="" tvg-logo="",Оружие
 http://176.222.190.76/btv/SWM/oruzhie/oruzhie.m3u8
