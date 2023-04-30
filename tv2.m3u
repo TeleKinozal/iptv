@@ -371,4 +371,6 @@ https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Известия HD
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+#EXTINF:-1 group-title="Ваша поддержка" tvg-shift="0" tvg-id="" tvg-logo="",Поддержать плейлист :)
+https://telekinozal.github.io/iptv/donate.mp4
 ##############################################################################
