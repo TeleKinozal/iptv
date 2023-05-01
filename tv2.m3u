@@ -235,6 +235,10 @@ http://176.222.190.76/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
 http://176.222.190.76/btv/SWM/Pobeda/Pobeda.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Арсенал
 http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Видеокассета HD
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",VHS-ка HD
+http://hlstv.kem.211.ru/239.211.200.32/stream.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Наука 2.0
 http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Viasat Nature HD
@@ -297,8 +301,6 @@ http://176.222.190.76/btv/SWM/Ohotnik_i_ribolov/Ohotnik_i_ribolov.m3u8
 http://176.222.190.76/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Зоо ТВ
 http://ott-cdn.ucom.am/s92/index.m3u8
-#EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Видеокассета HD
-https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Удар ТВ
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",MMA-TV HD
