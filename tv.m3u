@@ -317,6 +317,8 @@ http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
 http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Арена
 http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
+#EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Боец
+http://hlstv.kem.211.ru/239.211.211.44/stream.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Игра
 http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Страна
@@ -331,6 +333,10 @@ http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
 http://hlstv.kem.211.ru/239.211.200.172/stream.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 3 HD
 http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8
+#EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",KHL
+http://hlstv.kem.211.ru/239.211.211.48/stream.m3u8
+#EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",KHL Prime
+http://hlstv.kem.211.ru/239.211.200.12/stream.m3u8
 #EXTINF:-1 group-title="Детки ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Nickelodeon
 http://176.222.190.76/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
 #EXTINF:-1 group-title="Детки ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Nick Jr
