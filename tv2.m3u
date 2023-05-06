@@ -239,6 +239,8 @@ http://ott-cdn.ucom.am/s68/index.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",VHS-ка HD
 http://hlstv.kem.211.ru/239.211.200.32/stream.m3u8
+#EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Вопросы и ответы
+http://176.222.190.76/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Наука 2.0
 http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Viasat Nature HD
