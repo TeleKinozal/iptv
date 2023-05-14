@@ -18,7 +18,7 @@ https://livetv.mylifeisgood.ml/channels/russia24.m3u8
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",ОТР
 https://livetv.mylifeisgood.ml/channels/otr24.m3u8
-#EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",ТВ Центр
+#EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="" catchup-days="3" catchup-days="3" catchup-source="https://livetv.mylifeisgood.ml/arhive/srv17/tvc/index-${start}-${offset}.m3u8",ТВ Центр
 https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",РЕН ТВ
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
