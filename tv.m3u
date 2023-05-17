@@ -59,6 +59,8 @@ http://edge05.beetv.kz:80/btv/SWM/Eurokino/Eurokino.m3u8
 http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="fanhd" tvg-logo="",FAN HD
 http://hlstv.kem.211.ru/239.211.200.51/stream.m3u8
+#EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Шокирующее
+http://37.29.23.129:4000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Trash HD
 https://edge05.beetv.kz/btv/SWM/trash_hd/trash_hd.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НСТ
