@@ -41,9 +41,6 @@ https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Муз ТВ
 https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
 
-#EXTINF:-1 ,KINO (плейлист)
-https://telekinozal.github.io/iptv/kino.m3u?version=2
-
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",BACKUSTV ORIGINAL
 https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",BACKUSTV DARK
