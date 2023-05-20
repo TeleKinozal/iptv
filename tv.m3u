@@ -156,7 +156,7 @@ http://hlstv.kem.211.ru/239.211.211.187/stream.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Мир сериала
 http://hlstv.kem.211.ru/239.211.211.188/stream.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",TMF RUS HD
-https://hls.goodgame.ru/hls/201891.m3u8
+https://live.prd.dlive.tv/hls/live/zabrcr.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Восток ТВ
 http://hlstv.kem.211.ru/239.211.211.117/stream.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="shanson-tv" tvg-logo="",Шансон-ТВ
