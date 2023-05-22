@@ -317,7 +317,7 @@ http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
 http://edge05.beetv.kz:80/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Sports 2 HD
 http://edge05.beetv.kz:80/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
-#EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Qazaqstan
+#EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Казахстан
 http://edge05.beetv.kz:80/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 1 HD
 http://edge05.beetv.kz:80/btv/SWM/Eurosport/Eurosport.m3u8
