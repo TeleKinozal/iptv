@@ -62,7 +62,7 @@ http://edge03.beetv.kz:80/btv/SWM/Eurokino/Eurokino.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="plan-b" tvg-logo="",plan_B HD
 http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="fanhd" tvg-logo="",FAN HD
-http://hlstv.kem.211.ru/239.211.200.51/stream.m3u8
+http://94.230.240.17:8080/fan/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Шокирующее
 http://37.29.23.129:4000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Trash HD
