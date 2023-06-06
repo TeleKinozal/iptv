@@ -58,13 +58,13 @@ http://edge03.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",TV XXI
 http://edge03.beetv.kz:80/btv/SWM/tv21/tv21.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Еврокино
-http://edge03.beetv.kz:80/btv/SWM/Eurokino/Eurokino.m3u8
+http://139.28.255.251:8000/play/a00i
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="plan-b" tvg-logo="",plan_B HD
-http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
+http://77.240.45.106:8888/play/a01r
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="fanhd" tvg-logo="",FAN HD
 http://94.230.240.17:8080/fan/index.m3u8
-#EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Шокирующее
-http://37.29.23.129:4000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Trash HD
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НСТ
@@ -110,7 +110,7 @@ http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Ностальгия
 http://hlstv.kem.211.ru/239.211.211.16/stream.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="mosfilm" tvg-logo="",Мосфильм. Золотая коллекция
-http://edge03.beetv.kz:80/btv/SWM/mosfilm/mosfilm.m3u8
+http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Жар Птица
 http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Русский иллюзион
