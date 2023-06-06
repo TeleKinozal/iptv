@@ -208,7 +208,7 @@ https://edge03.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bollywood HD
 http://edge03.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Мужское кино HD
-http://hlstv.kem.211.ru/239.211.200.31/stream.m3u8
+http://139.28.255.251:8000/play/a015
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киноужас HD
 http://hlstv.kem.211.ru/239.211.200.43/stream.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносемья HD
