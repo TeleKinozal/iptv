@@ -66,7 +66,7 @@ http://hlstv.kem.211.ru/239.211.200.51/stream.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Шокирующее
 http://37.29.23.129:4000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Trash HD
-https://edge03.beetv.kz/btv/SWM/trash_hd/trash_hd.m3u8
+https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НСТ
 http://93.125.34.51:30002/NSTV/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="4" tvg-id="kino-tv-pl4" tvg-logo="",КиноТВ
