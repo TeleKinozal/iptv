@@ -224,7 +224,7 @@ http://139.28.255.251:8000/play/a01b
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Кинохит HD
 http://139.28.255.251:8000/play/a011
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киномикс HD
-http://109.197.192.121:8080/kinoplus/index.m3u8
+http://139.28.255.251:8000/play/a00z
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Родное кино
 http://139.28.255.251:8000/play/a016
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Индийское кино
