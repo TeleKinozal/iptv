@@ -210,27 +210,27 @@ http://edge03.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Мужское кино HD
 http://139.28.255.251:8000/play/a015
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киноужас HD
-http://hlstv.kem.211.ru/239.211.200.43/stream.m3u8
+http://139.28.255.251:8000/play/a018
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносемья HD
-http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
+http://139.28.255.251:8000/play/a019
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносерия HD
-http://hlstv.kem.211.ru/239.211.200.44/stream.m3u8
+http://139.28.255.251:8000/play/a014
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="kinokomedia" tvg-logo="",Кинокомедия HD
-http://hlstv.kem.211.ru/239.211.200.139/stream.m3u8
+http://139.28.255.251:8000/play/a012
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносвидание HD
-http://hlstv.kem.211.ru/239.211.211.141/stream.m3u8
+http://139.28.255.251:8000/play/a010
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Кинопремьера HD
-http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
+http://139.28.255.251:8000/play/a01b
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Кинохит HD
-http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8
+http://139.28.255.251:8000/play/a011
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киномикс HD
-http://hlstv.kem.211.ru/239.211.200.194/stream.m3u8
+http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Родное кино
-http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
+http://139.28.255.251:8000/play/a016
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Индийское кино
-http://hlstv.kem.211.ru/239.211.211.154/stream.m3u8
+http://139.28.255.251:8000/play/a00y
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Наше новое кино
-http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
+http://139.28.255.251:8000/play/a017
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Перец
 http://edge03.beetv.kz:80/btv/SWM/Perec/Perec.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="muzhskoy" tvg-logo="",Mужской
