@@ -245,8 +245,6 @@ http://edge03.beetv.kz:80/btv/SWM/Pobeda/Pobeda.m3u8
 http://ott-cdn.ucom.am/s68/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Видеокассета HD
 https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",VHS-ка HD
-http://hlstv.kem.211.ru/239.211.200.32/stream.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Вопросы и ответы
 http://edge03.beetv.kz:80/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Наука 2.0
@@ -262,7 +260,7 @@ https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",History HD
 https://edge03.beetv.kz/btv/SWM/HistoryHD/HistoryHD.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",History2 HD
-http://edge03.beetv.kz:80/btv/SWM/History2HD/History2HD.m3u8
+http://88.216.83.245/history/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="terra-ru" tvg-logo="",Terra
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Big Planet HD
