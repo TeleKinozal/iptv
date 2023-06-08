@@ -112,7 +112,7 @@ http://93.125.34.51:30002/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="mosfilm" tvg-logo="",Мосфильм. Золотая коллекция
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Жар Птица
-http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Русский иллюзион
 http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Иллюзион +
