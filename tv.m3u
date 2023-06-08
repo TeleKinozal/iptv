@@ -104,11 +104,11 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="sony-tv" tvg-logo="",Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Дом кино
-http://46.151.151.245:10007/play/a00b
+http://93.125.34.51:30002/DomKino/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Дом кино Премиум
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Ностальгия
-http://hlstv.kem.211.ru/239.211.211.16/stream.m3u8
+http://93.125.34.51:30002/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="mosfilm" tvg-logo="",Мосфильм. Золотая коллекция
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Жар Птица
@@ -126,7 +126,7 @@ http://139.28.255.251:8000/play/a00b
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Феникс+ Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Телекафе
-http://edge03.beetv.kz:80/btv/icon/Telecafe/Telecafe.m3u8
+http://93.125.34.51:30002/Telecafe/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Хит
 https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Мир
@@ -236,7 +236,7 @@ http://edge03.beetv.kz:80/btv/SWM/Perec/Perec.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="muzhskoy" tvg-logo="",Mужской
 http://edge03.beetv.kz:80/btv/SWM/Muzhskoy/Muzhskoy.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Оружие
-http://edge03.beetv.kz:80/btv/SWM/oruzhie/oruzhie.m3u8
+http://93.125.34.51:30002/Oruzhie/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Техно 24
 http://edge03.beetv.kz:80/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Победа
