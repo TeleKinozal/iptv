@@ -104,7 +104,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="sony-tv" tvg-logo="",Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Дом кино
-http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
+http://93.125.34.51:30002/DomKino/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Дом кино Премиум
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Ностальгия
