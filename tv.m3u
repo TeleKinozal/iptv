@@ -128,15 +128,15 @@ https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Телекафе
 http://edge03.beetv.kz:80/btv/icon/Telecafe/Telecafe.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Хит
-http://hlstv.kem.211.ru/239.211.211.181/stream.m3u8
+https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Мир
 http://edge03.beetv.kz:80/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Право
-http://edge03.beetv.kz:80/btv/SWM/ntv_pravo/ntv_pravo.m3u8
+https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Сериал
-http://edge03.beetv.kz:80/btv/SWM/ntv_serial/ntv_serial.m3u8
+https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Стиль
-http://edge03.beetv.kz:80/btv/SWM/ntv_style/ntv_style.m3u8
+https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Film.Ua Drama
 http://edge03.beetv.kz:80/btv/SWM/FilmUADrama/FilmUADrama.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Fight BOX
