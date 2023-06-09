@@ -104,7 +104,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="sony-tv" tvg-logo="",Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Дом кино
-http://46.151.151.245:10007/play/a00b
+http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Дом кино Премиум
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Ностальгия
@@ -130,7 +130,7 @@ http://93.125.34.51:30002/Telecafe/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Хит
 https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Мир
-http://edge03.beetv.kz:80/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
+http://streamer1.ruslanatv.ru/russia/ntv_mir_2023/playlist.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Право
 https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Сериал
@@ -240,7 +240,7 @@ http://93.125.34.51:30002/Oruzhie/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Техно 24
 http://edge03.beetv.kz:80/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Победа
-http://edge03.beetv.kz:80/btv/SWM/Pobeda/Pobeda.m3u8
+http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Арсенал
 http://ott-cdn.ucom.am/s68/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Видеокассета HD
