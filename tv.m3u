@@ -164,13 +164,13 @@ https://live.prd.dlive.tv/hls/live/zabrcr.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Восток ТВ
 http://hlstv.kem.211.ru/239.211.211.117/stream.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="shanson-tv" tvg-logo="",Шансон-ТВ
-http://hlstv.kem.211.ru/239.211.211.78/stream.m3u8
+http://93.125.34.51:30002/ShansonTV/index.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="europa-plus-tv" tvg-logo="",Европа плюс ТВ HD
 https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",1HD
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Ля минор
-http://hlstv.kem.211.ru/239.211.211.20/stream.m3u8
+http://93.125.34.51:30002/LaMinor/index.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV
 https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Deluxe
