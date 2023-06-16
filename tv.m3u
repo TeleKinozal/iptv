@@ -319,12 +319,10 @@ http://94.158.54.107/88/index.m3u8
 http://94.158.54.107/94/index.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Sports 2 HD
 http://94.158.54.107/95/index.m3u8
-#EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Казахстан
-https://bal.varcdn.top/rpl1/mono.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 1 HD
-https://bal.varcdn.top/lb/Eurosport1/mono.m3u8
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 2 HD
-https://bal.varcdn.top/lb/Eurosport2/mono.m3u8
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! HD
