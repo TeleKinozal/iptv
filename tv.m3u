@@ -316,39 +316,39 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",MMA-TV HD
 http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Sports 1 HD
-http://edge03.beetv.kz:80/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
+https://bal.varcdn.top/setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Sports 2 HD
-http://edge03.beetv.kz:80/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+https://bal.varcdn.top/setanta2/index.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Setanta Казахстан
-http://edge03.beetv.kz:80/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
+https://bal.varcdn.top/rpl1/index.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 1 HD
-http://edge03.beetv.kz:80/btv/SWM/Eurosport/Eurosport.m3u8
+https://bal.varcdn.top/lb/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 2 HD
-http://edge03.beetv.kz:80/btv/SWM/Eurosport2/Eurosport2.m3u8
+https://bal.varcdn.top/lb/Eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! HD
-http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
+http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Арена
-http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Боец
-http://hlstv.kem.211.ru/239.211.211.44/stream.m3u8
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Игра
-http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Страна
-http://hlstv.kem.211.ru/239.211.211.63/stream.m3u8
-#EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Премьер
-http://hlstv.kem.211.ru/239.211.211.170/stream.m3u8
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Планета
+http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Премьер HD
-http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 1 HD
-http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 2 HD
-http://hlstv.kem.211.ru/239.211.200.172/stream.m3u8
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Футбол 3 HD
-http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",KHL
-http://hlstv.kem.211.ru/239.211.211.48/stream.m3u8
+http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",KHL Prime
-http://hlstv.kem.211.ru/239.211.200.12/stream.m3u8
+http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Детки ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Nickelodeon
 http://edge03.beetv.kz:80/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
 #EXTINF:-1 group-title="Детки ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Nick Jr
