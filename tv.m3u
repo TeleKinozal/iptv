@@ -325,6 +325,8 @@ https://bal.varcdn.top/rpl1/index.m3u8
 https://bal.varcdn.top/lb/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Eurosport 2 HD
 https://bal.varcdn.top/lb/Eurosport2/index.m3u8
+#EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Беларусь 5
+https://bal.varcdn.top/b5/index.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч! Арена
