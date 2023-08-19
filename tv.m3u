@@ -58,7 +58,7 @@ http://edge03.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",TV XXI
 http://77.240.45.106:18888/play/a01s
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Еврокино
-http://139.28.255.251:8000/play/a00i
+http://tv.tvip-media.net/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="plan-b" tvg-logo="",plan_B HD
 http://77.240.45.106:8888/play/a01r
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="fanhd" tvg-logo="",FAN HD
@@ -234,7 +234,7 @@ http://139.28.255.251:8000/play/a017
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Перец
 http://edge03.beetv.kz:80/btv/SWM/Perec/Perec.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="muzhskoy" tvg-logo="",Mужской
-http://edge03.beetv.kz:80/btv/SWM/Muzhskoy/Muzhskoy.m3u8
+http://tv.tvip-media.net/muzhskoy/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Оружие
 http://93.125.34.51:30002/Oruzhie/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Техно 24
