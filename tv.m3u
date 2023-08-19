@@ -128,15 +128,15 @@ https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Телекафе
 http://93.125.34.51:30002/Telecafe/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Хит
-https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Мир
 http://streamer1.ruslanatv.ru/russia/ntv_mir_2023/playlist.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Право
-https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Сериал
-https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Стиль
-https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Film.Ua Drama
 http://edge03.beetv.kz:80/btv/SWM/FilmUADrama/FilmUADrama.m3u8
 #EXTINF:-1 group-title="Спорт ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Fight BOX
