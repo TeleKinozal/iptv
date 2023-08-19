@@ -116,7 +116,7 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Русский иллюзион
 http://tv.tvip-media.net/russkiyilluzion/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Иллюзион +
-http://93.125.34.51:30002/illuzion_plus/index.m3u8
+http://tv.tvip-media.net/illuzionplus/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Русский роман HD
 http://tv.tvip-media.net/russkiyroman/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Русский детектив
@@ -156,7 +156,7 @@ http://hlstv.kem.211.ru/239.211.200.89/stream.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="familyjam" tvg-logo="",FamilyJam HD
 http://hlstv.kem.211.ru/239.211.200.90/stream.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Любимое кино
-http://hlstv.kem.211.ru/239.211.211.187/stream.m3u8
+http://tv.tvip-media.net/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Мир сериала
 http://hlstv.kem.211.ru/239.211.211.188/stream.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="https://tmf-rus.ru/assets/img/tmfrus-logo.png",TMF RUS HD
@@ -212,25 +212,25 @@ http://139.28.255.251:8000/play/a015
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киноужас HD
 http://139.28.255.251:8000/play/a018
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносемья HD
-http://139.28.255.251:8000/play/a019
+http://tv.tvip-media.net/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносерия HD
-http://139.28.255.251:8000/play/a014
+http://tv.tvip-media.net/kinoseriya/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="kinokomedia" tvg-logo="",Кинокомедия HD
-http://139.28.255.251:8000/play/a012
+http://tv.tvip-media.net/kinokomedia/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносвидание HD
 http://139.28.255.251:8000/play/a010
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Кинопремьера HD
-http://139.28.255.251:8000/play/a01b
+http://tv.tvip-media.net/kinopremyerahd/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Кинохит HD
-http://139.28.255.251:8000/play/a011
+http://tv.tvip-media.net/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киномикс HD
-http://139.28.255.251:8000/play/a00z
+http://tv.tvip-media.net/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Родное кино
-http://139.28.255.251:8000/play/a016
+http://tv.tvip-media.net/rodnoekino/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Индийское кино
 http://139.28.255.251:8000/play/a00y
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Наше новое кино
-http://139.28.255.251:8000/play/a017
+http://tv.tvip-media.net/nashenovoekino/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Перец
 http://edge03.beetv.kz:80/btv/SWM/Perec/Perec.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="muzhskoy" tvg-logo="",Mужской
@@ -240,9 +240,9 @@ http://93.125.34.51:30002/Oruzhie/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Техно 24
 http://edge03.beetv.kz:80/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Победа
-http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
+http://tv.tvip-media.net/pobeda/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Арсенал
-http://ott-cdn.ucom.am/s68/index.m3u8
+http://tv.tvip-media.net/arsenalhd/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Видеокассета HD
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Вопросы и ответы
