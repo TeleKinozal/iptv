@@ -68,7 +68,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Trash HD
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НСТ
-http://93.125.34.51:30002/NSTV/index.m3u8
+https://tbs01-edge11.itdc.ge/hctv/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",КиноТВ
 http://streamer1.ruslanatv.ru/russia/kino_tv_sd_new_2023/playlist.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",A1 HD
