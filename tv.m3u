@@ -166,25 +166,25 @@ http://hlstv.kem.211.ru/239.211.211.117/stream.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="shanson-tv" tvg-logo="",Шансон-ТВ
 http://93.125.34.51:30002/ShansonTV/index.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="europa-plus-tv" tvg-logo="",Европа плюс ТВ HD
-https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",1HD
-https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
+https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Ля минор
 http://93.125.34.51:30002/LaMinor/index.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV
-https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Deluxe
-https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Русский хит
-https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Classic
-https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Шлягер
-https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV Rock
 http://hlstv.kem.211.ru/239.211.211.23/stream.m3u8
 #EXTINF:-1 group-title="Музыка ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bridge TV HITS
-https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",START Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",START World HD
