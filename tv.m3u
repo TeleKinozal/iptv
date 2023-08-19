@@ -208,9 +208,9 @@ http://tv.tvip-media.net/mgmhd/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Bollywood HD
 http://edge03.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Мужское кино HD
-http://139.28.255.251:8000/play/a015
+https://mhd116.iptv2022.com/p/ECYJYwhfa25RzdfFkSdXfg,1692478813/streaming/male-movie/324/1/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киноужас HD
-http://139.28.255.251:8000/play/a018
+https://mhd116.iptv2022.com/p/dC6cLXjl2TFT4SjpjxohQg,1692478813/streaming/kinoujas/324/1/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносемья HD
 http://tv.tvip-media.net/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносерия HD
@@ -218,7 +218,7 @@ http://tv.tvip-media.net/kinoseriya/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="kinokomedia" tvg-logo="",Кинокомедия HD
 http://tv.tvip-media.net/kinokomedia/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Киносвидание HD
-http://139.28.255.251:8000/play/a010
+https://mhd116.iptv2022.com/p/ube_hujb6sqZkyWsK-OWPQ,1692478813/streaming/film-watching/324/1/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Кинопремьера HD
 http://tv.tvip-media.net/kinopremyerahd/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Кинохит HD
@@ -228,7 +228,7 @@ http://tv.tvip-media.net/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Родное кино
 http://tv.tvip-media.net/rodnoekino/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Индийское кино
-http://139.28.255.251:8000/play/a00y
+https://mhd116.iptv2022.com/p/HDVfhL1aG-U-XNODwXN8Nw,1692478813/streaming/india/324/1/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Наше новое кино
 http://tv.tvip-media.net/nashenovoekino/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Перец
