@@ -1,45 +1,45 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 #
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Первый канал
-https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Россия 1
-https://livetv.mylifeisgood.ml/channels/russia1.m3u8
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Матч!
-https://livetv.mylifeisgood.ml/channels/match.m3u8
+https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ
-https://livetv.mylifeisgood.ml/channels/ntv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Пятый канал
-https://livetv.mylifeisgood.ml/channels/5tv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Россия К
-https://livetv.mylifeisgood.ml/channels/russiak.m3u8
+https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Россия 24
-https://livetv.mylifeisgood.ml/channels/russia24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Карусель
-https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
+https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",ОТР
-https://livetv.mylifeisgood.ml/channels/otr24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",ТВ Центр
-https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",РЕН ТВ
-https://livetv.mylifeisgood.ml/channels/rentv.m3u8
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Спас
-https://livetv.mylifeisgood.ml/channels/spas.m3u8
+https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",СТС
-https://livetv.mylifeisgood.ml/channels/sts.m3u8
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Домашний
-https://livetv.mylifeisgood.ml/channels/domashnii.m3u8
+https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",ТВ3
-https://livetv.mylifeisgood.ml/channels/tv3.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Пятница!
-https://livetv.mylifeisgood.ml/channels/friday.m3u8
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Звезда
-https://livetv.mylifeisgood.ml/channels/zvezda.m3u8
+https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Мир
-https://livetv.mylifeisgood.ml/channels/mir.m3u8
+https://livetv.mylifeisgood.net.ru/channels/mir.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",ТНТ
-https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Эфир ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Муз ТВ
-https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",RTG TV
 http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
@@ -66,7 +66,7 @@ http://94.230.240.17:8080/fan/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Trash HD
-https://livetv.mylifeisgood.ml/channels/trash.m3u8
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НСТ
 http://93.125.34.51:30002/NSTV/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",КиноТВ
