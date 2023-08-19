@@ -126,7 +126,7 @@ http://tv.tvip-media.net/russkiybestseller/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Феникс+ Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Телекафе
-http://93.125.34.51:30002/Telecafe/index.m3u8
+https://tbs01-edge11.itdc.ge/telecafe/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Хит
 https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",НТВ-Мир
@@ -198,7 +198,7 @@ https://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Дорама
 http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Синема
-https://edge03.beetv.kz/btv/SWM/CINEMA/CINEMA.m3u8
+https://tbs01-edge11.itdc.ge/park/index.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",FOX HD
 https://sc.id-tv.kz/FOX_HD.m3u8
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",FOX LIFE HD
@@ -232,7 +232,7 @@ https://mhd116.iptv2022.com/p/HDVfhL1aG-U-XNODwXN8Nw,1692478813/streaming/india/
 #EXTINF:-1 group-title="Кино ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Наше новое кино
 http://tv.tvip-media.net/nashenovoekino/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Перец
-http://edge03.beetv.kz:80/btv/SWM/Perec/Perec.m3u8
+https://tbs01-edge11.itdc.ge/perec/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="muzhskoy" tvg-logo="",Mужской
 http://tv.tvip-media.net/muzhskoy/index.m3u8
 #EXTINF:-1 group-title="Познаю ТВ" tvg-shift="0" tvg-id="" tvg-logo="",Оружие
